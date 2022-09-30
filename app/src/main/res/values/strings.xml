@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SadebEmployee</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="text_register_correct_email">Enter Correct Email</string>
+    <string name="text_register_password">Enter Long Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="wellcome_back_to">WellCome back to</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_a_account">Don’t have a account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="home">Home</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="accepted">Accepted</string>
+    <string name="start">start :- %1$s</string>
+    <string name="end">end:- %1$s</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+    <string name="complete">Complete</string>
+    <string name="completed">Complete</string>
+</resources>

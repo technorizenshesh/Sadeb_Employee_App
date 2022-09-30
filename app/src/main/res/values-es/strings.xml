@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sadeb Empleador</string>
+    <string name="enter_email">Ingrese su  Email</string>
+    <string name="enter_pass">Ingrese contraseña</string>
+    <string name="text_register_correct_email">Ingrese su email correcto</string>
+    <string name="text_register_password">Ingrese una contraseña mas larga</string>
+    <string name="cancel">Cancelado</string>
+    <string name="accept">Aceptado</string>
+    <string name="wellcome_back_to">WellCome back to</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">Iniciar Sesion</string>
+    <string name="forgot_password">Olvido su contraseña?</string>
+    <string name="don_t_have_a_account">Aun no posee un cuenta ?</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="home">Inicio</string>
+    <string name="enter_password">Ingrese Contraseña</string>
+    <string name="accepted">Aceptado</string>
+    <string name="start">start :- %1$s</string>
+    <string name="end">end:- %1$s</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+    <string name="complete">Completo</string>
+    <string name="completed">terminado</string>
+</resources>
+
+<!--
+<resources>
+    <string name="app_name">SadebEmployee</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="text_register_correct_email">Enter Correct Email</string>
+    <string name="text_register_password">Enter Long Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="wellcome_back_to">WellCome back to</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_a_account">Don’t have a account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="home">Home</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="accepted">Accepted</string>
+    <string name="start">start :- %1$s</string>
+    <string name="end">end:- %1$s</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+</resources>-->
